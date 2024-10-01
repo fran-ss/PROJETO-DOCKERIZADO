@@ -38,4 +38,4 @@ Acessar a aplicação:
         É containerizada e configurada para se comunicar com o NGINX.
 
 ## DOCKER HUB
-[text](https://hub.docker.com/repository/docker/frams/projeto_dockerizado/general)
+[docker_hub](https://hub.docker.com/repository/docker/frams/projeto_dockerizado/general)
